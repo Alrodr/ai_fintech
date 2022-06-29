@@ -1,9 +1,9 @@
 ---
-title : "Prologue"
-description: "Prologue Doks."
+title : "Introduction"
+description: "Practical Statistics and ML for AI in Fintech"
 lead: ""
-date: 2020-10-06T08:48:45+00:00
-lastmod: 2020-10-06T08:48:45+00:00
+date: 2022-06-13
+lastmod: 2022-06-13
 draft: false
 images: []
 ---
