@@ -29,7 +29,9 @@ Financial technology presents an important variety of technologies as financial 
 
 AI is already a reality and part of our everyday activities. The banking and finance industry is a major user of AI.  Most of these AI investments currently go into the areas of risk management, fraud prevention and detection, compliance, credit, corporate finance, insurance, asset and portfolio management, business and financial advisory. Undoubtedly, it will continue to shape and respond to the needs of the Fintech industry in the future.
 
-> If you are involved in any way in this area of knowledge, I invite you to read on. And remember, if you want to collaborate you are welcome ❤️
+
+{{< alert icon="❤️" context="info" text="If you are involved in any way in this area of knowledge, I invite you to read on. And remember, if you want to collaborate you are welcome " />}}
+
 
 ## ✍️ How to collaborate on Data Doks
 
