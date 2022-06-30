@@ -23,12 +23,11 @@ Here you will find a list of all the notes that I have been creating for my pers
 
 After COVID-19, the business sector has had to implement major changes in technology. The financial industry has seen significant growth in relation to services using technology. In this sense, Fintech is transforming the traditional structures of financial services.
 
-Financial technology presents an important variety of technologies as financial services through softwares, such as online banking, mobile payment applications, mobile wallets, online insurance and even cryptocurrencies. Among them, Artificial Intelligence (AI) is a fundamental tool to make financial technology and software possible. 
+Financial technology presents an important variety of technologies as financial services through softwares, such as online banking, mobile payment applications, mobile wallets, online insurance and even cryptocurrencies. Among them, Artificial Intelligence (AI) is a fundamental tool to make financial technology and software possible.
 
 **AI is emerging with great force as a must-have technology for innovation in financial services**. Today, AI has many applications. In the case of fintechs, AI has a huge potential to achieve good performance in companies. This technological tool is capable of handling huge amounts of data, finding patterns and even generating predictions to help the company make decisions (a.k.a Data-Driven Companies). Likewise, it also allows to get to know customers better. With the use of AI in the business sector, human errors are avoided, companies have a better understanding of what their customers want and how they want to do their finances. Likewise, fintechs can analyze different business issues, engage customers and maximize their services with the aim of generating more profit. All this makes it possible for fintechs to offer products suited to the company's model. 
 
 AI is already a reality and part of our everyday activities. The banking and finance industry is a major user of AI.  Most of these AI investments currently go into the areas of risk management, fraud prevention and detection, compliance, credit, corporate finance, insurance, asset and portfolio management, business and financial advisory. Undoubtedly, it will continue to shape and respond to the needs of the Fintech industry in the future.
-
 
 {{< alert icon="❤️" context="info" text="If you are involved in any way in this area of knowledge, I invite you to read on. And remember, if you want to collaborate you are welcome " />}}
 

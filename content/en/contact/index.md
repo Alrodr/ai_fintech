@@ -8,4 +8,3 @@ images: []
 ---
 
 {{< email user="arodr.fdez" domain="gmail.com" >}}
-

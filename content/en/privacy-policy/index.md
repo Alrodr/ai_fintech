@@ -7,9 +7,7 @@ draft: false
 images: []
 ---
 
-
 {{< alert icon="🔐" context="warning" text="<b>TL;DR</b>: We do not use cookies and we do not collect any personal data." />}}
-
 
 ## Website visitors
 

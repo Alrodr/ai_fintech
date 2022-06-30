@@ -64,6 +64,3 @@ jupyter notebook
 ```
 
 Now, you are ready to start :tada:!
-
----
- [:pencil2: Edit this document on Github](https://github.com/Alrodr/ai_fintech/blob/main/content/en/docs/prologue/setting_up.md)
