@@ -1,13 +1,15 @@
 ---
 title: "Privacy Policy 🔐"
 description: "We do not use cookies and we do not collect any personal data."
-date: 2020-08-27T19:23:18+02:00
-lastmod: 2020-08-27T19:23:18+02:00
+date: 2022-06-30
+lastmod: 2022-06-30
 draft: false
 images: []
 ---
 
-__TL;DR__: We do not use cookies and we do not collect any personal data.
+
+{{< alert icon="🔐" context="warning" text="<b>TL;DR</b>: We do not use cookies and we do not collect any personal data." />}}
+
 
 ## Website visitors
 
@@ -33,4 +35,4 @@ We run [Plausible](https://plausible.io/) analytics on getdoks.org. The followin
 
 [Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
 
-Effective Date: _16th June 2022_
+Effective Date: _30th June 2022_
