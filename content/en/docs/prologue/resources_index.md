@@ -13,9 +13,18 @@ weight: 1
 toc: false
 ---
 
-## 1. Introduction
 
-1. [&rdsh; Introduction]({{< relref "introduction" >}})
-1. [&rdsh; Seeting up the environment]({{< relref "setting_up" >}})
+{{< details "Introduction" open >}}
 
+- [&rdsh; Resources Index]({{< relref "resources_index" >}})
+- [&rdsh; Introduction]({{< relref "introduction" >}})
+- [&rdsh; Seeting up the environment]({{< relref "setting_up" >}})
 
+{{< /details >}}
+
+{{< details "Cloud" open >}}
+- Data Processing Systems
+  - [&rdsh; Fundamentals I]({{< relref "data-processing" >}})
+  - [&rdsh; Fundamentals II]({{< relref "data-processing-fundamentals-2" >}})
+
+{{< /details >}}
