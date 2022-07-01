@@ -1,5 +1,5 @@
 ---
-title: "Data Processing: Fundamentals I"
+title: "Data Processing: Basics"
 description: "Data Processing. Concepts at a high level"
 lead: "Data Processing. Concepts at a high level"
 date: 2021-05-01
