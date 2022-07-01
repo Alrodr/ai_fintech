@@ -1,0 +1,33 @@
+
+{{ define "main" }}
+<div class="row justify-content-center">
+  <div class="col-md-12 col-lg-10 col-xl-8">
+    <article>
+      <h1 class="text-center">{{ .Title }}</h1>
+      <div class="text-center">{{ .Content }}</div>
+	  <div class="card-list">
+		{{ $currentPage := . -}}
+		{{ range .Site.Menus.docs -}}
+		  <h3>{{ .Name }}</h3>
+		  {{ if .HasChildren -}}
+		  <ul class="list-unstyled">
+				<div class="card my-3">
+					<div class="card-body">
+						{{ range .Children -}}
+									<li>
+										<a href="{{ .URL | relURL }}"> &rdsh; {{ .Name }}</a>
+									</li>
+						{{ end -}}
+					</div>
+				</div>
+		  </ul>
+		  {{ end -}}
+		{{ end -}}
+	</div>
+    </article>
+  </div>
+</div>
+{{ end }}
+
+
+

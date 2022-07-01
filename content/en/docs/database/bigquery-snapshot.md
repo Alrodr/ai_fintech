@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Managing Databases"
+    parent: "Section 3: Managing Databases"
 weight: 320
 toc: true
 ---

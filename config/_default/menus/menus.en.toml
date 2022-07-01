@@ -1,19 +1,7 @@
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/resources_index/"
+  url = "/docs/"
   weight = 10
-
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/resources_index/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
 
 [[social]]
   name = "GitHub"
