@@ -22,9 +22,16 @@ toc: false
 
 {{< /details >}}
 
-{{< details "Cloud" open >}}
+{{< details "Data Engineer" open >}}
 - Data Processing Systems
   - [&rdsh; Fundamentals I]({{< relref "data-processing" >}})
   - [&rdsh; Fundamentals II]({{< relref "data-processing-fundamentals-2" >}})
+
+{{< /details >}}
+
+{{< details "BigQuery" open >}}
+- [&rdsh; Python client for Google BigQuery]({{< relref "api_bigquery_with_python" >}})
+- [&rdsh; Querying BigQuery with Python]({{< relref "bigquery-python" >}})
+- [&rdsh; Database snapshots with BigQuery]({{< relref "bigquery-snapshot" >}})
 
 {{< /details >}}
