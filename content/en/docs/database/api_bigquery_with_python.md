@@ -67,6 +67,7 @@ To override the project inferred from the environment, pass an explicit project 
 
 
 ### Example 1: Querying Bigquery from Python
+
 ```python
 from google.cloud import bigquery
 
@@ -83,7 +84,6 @@ rows = query_job.result()  # Waits for query to finish
 for row in rows:
     print(row.name)
 ```
-
 
 ### Example 2: Listing Datasets
 

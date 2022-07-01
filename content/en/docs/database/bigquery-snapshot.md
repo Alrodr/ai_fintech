@@ -21,7 +21,7 @@ toc: true
 2. In Cloud console, go to the BigQuery page
 3. In the Editor pane, enter the following `CREATE SNAPSHOT TABLE` query:
 
-``` sql
+```sql
 DECLARE snapshot_name STRING;
 DECLARE expiration TIMESTAMP;
 DECLARE query STRING;
