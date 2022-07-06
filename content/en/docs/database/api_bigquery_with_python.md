@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Section 3: Managing Databases"
+    parent: "Section 3: Data Acquisition Methods"
 weight: 300
 toc: true
 ---
