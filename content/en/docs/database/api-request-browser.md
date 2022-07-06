@@ -40,3 +40,4 @@ https://api.census.gov/data/2020/acs/acs5?get=NAME,group(B08303)&for=state:*
 ```
 
 Note the differences with our original query. Requesting by variable group will return all the variables in that group, annotations and errors included, no matter how many there are.
+
