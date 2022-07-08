@@ -3,8 +3,8 @@
 ## Homepage
 title = "Data Doks"
 titleSeparator = "-"
-titleAddition = "Notes on Artificial Intelligence for Fintech"
-description = "Data Doks is an open set of resources on the application of Artificial Intelligence techniques in Finance."
+titleAddition = "Notes on Artificial Intelligence and Cloud Computing"
+description = "Data Doks is an open set of notes on Artificial Intelligence and Cloud Computing"
 
 ## Documentation
 # docsVersion = "0.4"
