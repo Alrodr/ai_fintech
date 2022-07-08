@@ -1,6 +1,6 @@
 ---
 title : "Introduction"
-description: "Practical Statistics and ML for AI in Fintech"
+description: "Introduction to Data Doks"
 lead: ""
 date: 2022-06-13
 lastmod: 2022-06-13

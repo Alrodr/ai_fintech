@@ -14,7 +14,7 @@ toc: true
 ---
 {{< alert icon="♻️" context="info" text="The AI project life cycle can generally be divided into three main stages: data preparation, model creation, and deployment. All three of these components are essential for creating quality models that will bring added value to your business." />}}
 
-We will now review the main stages of any IA project cycle. As we will see throughout the website, any of the published notes can be framed within one of the following stages.
+We will now review the main stages of any IA project cycle. **As we will see throughout the website, any of the published notes can be framed within one of the following stages.**
 
 ## Data Preparation
 
@@ -32,7 +32,7 @@ In this step, you could be scaling the data to a more appropriate range and perh
 ### Construct, train, and test the model
 In this step, you are creating the model, setting hyperparameters, and training the model. In the case of deep learning, you can also select a subsection of the training set to be a data validation set. The purpose of this set is to have the model be evaluated on it at the end of every epoch or full forward pass of the data through the model. By comparing the model performance on data it’s seen many times over during training versus data it hasn’t seen at all (or rather, data that has no effect on weight adjustment), you can see if the model is truly learning to generalize or if it’s just overfitting.
 
-### Overfitting check
+### Overfitting
 Overfitting is when a model performs significantly better on a training set compared to data that it has never seen before. As just discussed, one way to give an early indication of overfitting is to set aside a portion of the training set as validation data during the training phase. This can give you an early indication of overfitting without having to find out after the training process has finished, which can take anywhere from minutes to days depending on the depth of the model and the equipment used. And so, it follows that overfitting can also be observed when the model is evaluated on the testing data or validation data, and discrepancies in model performance can be observed between these sets and the training set.
 
 This phenomenon of overfitting could partially result from the model not receiving enough data points during training to reflect the variety it is expected to see, so fixing the training set by introducing more variety or even increasing the number of data points can help. Additionally, including methods such as regularization or dropout into the model’s architecture can also help combat overfitting in the case of deep learning models.

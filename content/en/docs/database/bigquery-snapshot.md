@@ -13,7 +13,7 @@ weight: 320
 toc: true
 ---
 
-{{< alert icon="💻" context="info" text="<b>TL;DR</b> In Finance, some machine learning models need to be trained on a daily basis to have the best possible performance (data are constantly changing). When it comes to backtesting, it is useful to have databases of previous training to reproduce the results. I show you how to deal with it a Scheduled query in a super simple way." />}}
+{{< alert icon="💻" context="info" text="<b>TL;DR</b> Some machine learning models need to be trained on a daily basis to have the best possible performance (data are constantly changing). When it comes to backtesting, it is useful to have databases of previous training to reproduce the results. I show you how to deal with it a Scheduled query in a super simple way." />}}
 
 ### Write a multi-statement scheduled query
 
